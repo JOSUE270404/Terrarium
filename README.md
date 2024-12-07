@@ -1,4 +1,4 @@
-# trerrarum
+# Terrarium
 
 ![Terrarium Image](./images/terrarium_banner.jpg)
 
@@ -8,6 +8,6 @@ a practicar las bases del código HTML + CSS + JS 💗
 
 # autor
 <img 
-src="https://avatars.githubusercontent.com/u/144040501?v=4"
-alt="Ricardo Cruz Torres"
+src="https://avatars.githubusercontent.com/u/182065591?v=4"
+alt="Josue Alcantara"
 width="200"/>
